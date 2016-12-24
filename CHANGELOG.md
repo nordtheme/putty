@@ -4,5 +4,13 @@
 
 ---
 
+# 0.1.0 (2016-12-24)
+## Features
+Implemented the main color theme file [`nord.reg`](https://github.com/arcticicestudio/nord-putty/blob/develop/src/nord.reg). (@arcticicestudio, #1, 3590df54)
+
+Detailed information about features and install instructions can be found in the [README](https://github.com/arcticicestudio/nord-putty/blob/develop/README.md#installation) and in the [project wiki](https://github.com/arcticicestudio/nord-putty/wiki).
+
+<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-putty/develop/src/assets/scrot-colortest.png"/><br><strong>htop</strong><br><img src="https://raw.githubusercontent.com/arcticicestudio/nord-putty/develop/src/assets/scrot-htop.png"/></p>
+
 # 0.0.0 (2016-12-23)
 **Project Initialization**
