@@ -1,4 +1,7 @@
-Windows Registry Editor Version 5.00 
+; Copyright (c) 2016-present Sven Greb <development@svengreb.de>
+; This source code is licensed under the MIT license found in the license file.
+
+Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Nord]
 "Colour0"="216,222,233"
